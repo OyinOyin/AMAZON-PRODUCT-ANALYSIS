@@ -41,7 +41,7 @@ This Project present a detailed analysis of Amazon Products using Excel's Pivot 
  - A significant number of Product had lower than 1,000 reviews which signals the marketing strength
 
  ## Recommendations 
-      - High Potential Categories : Promotions and emphasies should be made on top performming products and category so as yield higher revenue. A better marketing strategy should be tailored to advertise other revenues too.
+ - High Potential Categories : Promotions and emphasies should be made on top performming products and category so as yield higher revenue. A better marketing strategy should be tailored to advertise other revenues too.
          
 
 
